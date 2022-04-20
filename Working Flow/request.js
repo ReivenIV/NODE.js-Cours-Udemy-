@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-axios.get('https://www.google.com')
+axios.get('https://www.wikipedia.org')
     .then((response) => {
     console.log(response);
     })
@@ -10,3 +10,5 @@ axios.get('https://www.google.com')
     .then(() => {
         console.log('All done!');
     });
+
+    //./nodemon_modules/.bin/nodemon request.js
