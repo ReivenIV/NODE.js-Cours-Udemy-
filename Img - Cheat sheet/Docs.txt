@@ -1,0 +1,1 @@
+71 HTTP Responses (400 and 500 series are important): https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
